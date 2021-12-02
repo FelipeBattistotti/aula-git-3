@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Palace-tropical",
+    "rating": "3.8",
+    "price": 130.20,
+    "city": "Rio de janeiro"
+  },
+  {
+    "name": "Costa Maresia",
+    "rating": "4.6",
+    "price": 150.25,
+    "city": "Natal"
+  },
+  {
+    "name": "Olodum",
+    "rating": "3.5",
+    "price": 80,
+    "city": "Salvador"
+  },
+  {
+    "name": "love 237",
+    "rating": "4.9",
+    "price": 250,
+    "city": "São Paulo"
+  },
+  {
+    "name": "Bear Love",
+    "rating": "5.0",
+    "price": 300,
+    "city": "Rio de janeiro"
+  },
+  {
+    "name": "Polar",
+    "rating": "4.0",
+    "price": 420,
+    "city": "Gramado"
+  },
+  {
+    "name": "Costa do martinho",
+    "rating": "2.5",
+    "price": 50,
+    "city": "São luiz"
+  },
+  {
+    "name": "Gudam Garam",
+    "rating": "4.8",
+    "price": 160,
+    "city": "Recife"
+  },
+  {
+    "name": "Derby imperium",
+    "rating": "3.0",
+    "price": 800,
+    "city": "Belem"
+  },
+  {
+    "name": "Luck Striker",
+    "rating": "4.8",
+    "price": 164,
+    "city": "Fortaleza"
+  }
+]
